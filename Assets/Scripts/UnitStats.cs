@@ -9,5 +9,5 @@ public class UnitStats : MonoBehaviour
     public float attack;
     public float magic;
     public float defence;
-    public float speed;
+    public int speed;
 }
